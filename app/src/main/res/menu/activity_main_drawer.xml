@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Accueil" />
+
+        <!--<item-->
+            <!--android:id="@+id/nav_do_order"-->
+            <!--android:icon="@drawable/ic_playlist_add_black_24dp"-->
+            <!--android:title="Faire une commande" />-->
+
+        <!--<item-->
+            <!--android:id="@+id/nav_our_products"-->
+            <!--android:icon="@drawable/ic_subject_black_24dp"-->
+            <!--android:title="Nos Produits" />-->
+
+        <item
+            android:id="@+id/nav_promotion"
+            android:icon="@drawable/ic_store_black_24dp"
+            android:title="Promotion" />
+
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="Mon panier" />
+
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_account_box_black_24dp"
+            android:title="Mon Compte" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Partager" />
+
+        <!--<item-->
+            <!--android:id="@+id/nav_help"-->
+            <!--android:icon="@drawable/ic_help_black_24dp"-->
+            <!--android:title="Aide" />-->
+
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/ic_mail_black_24dp"
+            android:title="Contactez-nous"/>
+
+    </group>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

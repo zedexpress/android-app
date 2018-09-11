@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "54824690111",
+    "firebase_url": "https://zexpress-89c7f.firebaseio.com",
+    "project_id": "zexpress-89c7f",
+    "storage_bucket": "zexpress-89c7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54824690111:android:884703457e19259f",
+        "android_client_info": {
+          "package_name": "com.ssnahhydev.zexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54824690111-b1pim1dl1jf1mrfd94ko09chv3u1jmkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssnahhydev.zexpress",
+            "certificate_hash": "84a0720de206288fdcf84a0ae0953546c1a6882b"
+          }
+        },
+        {
+          "client_id": "54824690111-gnabeerr7csamq0oq32c3m78m43a036a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzfKPkRwwKO566Wt_YRbuAI5iRMIwanUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54824690111-gnabeerr7csamq0oq32c3m78m43a036a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:fontFamily="@font/my_font"
+        android:title="@string/navigation_home_text" />
+
+    <item
+        android:id="@+id/navigation_promotion"
+        android:icon="@drawable/promotion_icon"
+        android:title="@string/navigation_promotion_text" />
+
+    <item
+        android:id="@+id/navigation_panier"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="@string/navigation_panier_text" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/navigation_profile_text" />
+
+</menu>
